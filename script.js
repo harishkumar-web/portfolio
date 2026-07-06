@@ -4,9 +4,9 @@
 
 const texts = [
     "BCA Student",
-    "Aspiring Frontend Developer",
-    "JavaScript Learner",
-    "Future Software Engineer"
+"Aspiring Full Stack Developer",
+"Frontend Web Developer",
+"Web Development Enthusiast"
 ];
 
 let index = 0;
